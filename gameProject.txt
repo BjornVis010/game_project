@@ -1,0 +1,5 @@
+- judo
+- 2D
+- vechten
+- dynamic cam
+- resizing / fullscreen possible
